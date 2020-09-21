@@ -39,10 +39,6 @@
         display: flex;
         margin-left: 0;
     }
-    .section-box { 
-        margin-bottom: 30px;
-        margin-top: -60px;
-    }
 
 }
 @media screen and (max-width: 767px) {
@@ -86,6 +82,9 @@
     .section-box {
         width: 100%;
     }
+    .section-box-2 {
+        margin-top: 20px;
+    }
     .testimonials {
         width: 100%;
         display: flex;
@@ -96,6 +95,7 @@
     .testimonials-info { 
         width: 100%;
         margin-bottom: 20px;
+        margin-left: 20px;
     }
     
     .contact-section {
@@ -112,10 +112,7 @@
         display: flex;
         margin-left: 0;
     }
-    .section-box { 
-        margin-bottom: 30px;
-        margin-top: -60px;
-    }
+    .section-box { margin-bottom: 30px;}
     hr { margin-top: 20px; }
 
 }
@@ -132,7 +129,6 @@
     .container {
         width: 100%;
         margin: 0 auto;
-        margin-top: 20px;
     }
     .membership {
         display: flex;
@@ -173,6 +169,9 @@
     .section-box {
         width: 100%;
     }
+    .section-box-2 {
+        margin-top: 20px;
+    }
     .testimonials {
         width: 100%;
         display: flex;
@@ -183,7 +182,7 @@
     .testimonials-info { 
         width: 100%;
         margin-bottom: 20px;
-        margin-left: 15px;
+        margin-left: 20px;
     }
     
     .contact-section {
@@ -200,10 +199,7 @@
         display: flex;
         margin-left: 0;
     }
-    .section-box { 
-        margin-bottom: 30px;
-        margin-top: -60px;
-    }
+    .section-box { margin-bottom: 30px;}
     hr { margin-top: 20px; }
 
 }
