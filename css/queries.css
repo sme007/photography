@@ -39,6 +39,10 @@
         display: flex;
         margin-left: 0;
     }
+    .section-box { 
+        margin-bottom: 30px;
+        margin-top: -60px;
+    }
 
 }
 @media screen and (max-width: 767px) {
@@ -108,7 +112,10 @@
         display: flex;
         margin-left: 0;
     }
-    .section-box { margin-bottom: 30px;}
+    .section-box { 
+        margin-bottom: 30px;
+        margin-top: -60px;
+    }
     hr { margin-top: 20px; }
 
 }
@@ -122,6 +129,11 @@
         align-items: center;
         flex-direction: column;       
     }
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
     .membership {
         display: flex;
         flex-wrap: wrap;
@@ -130,10 +142,10 @@
         flex-direction: column; 
         margin-bottom: 20px;        
     }
-.membership .btn-sign-register {
-    margin-left: 45px;
-    margin-top: -20px;
-}
+    .membership .btn-sign-register {
+        margin-left: 45px;
+        margin-top: -20px;
+    }
     .btn-play {
         top: 63%;
     }
@@ -149,11 +161,7 @@
     .head-content{
         padding-bottom: 40px;
     }
-    .head-content p{
-        font-size: 20px;
-        
-       
-    }
+    .head-content p{font-size: 20px; }
     .head-content.btn-join {
         margin-bottom: 20px;
     }
@@ -175,6 +183,7 @@
     .testimonials-info { 
         width: 100%;
         margin-bottom: 20px;
+        margin-left: 15px;
     }
     
     .contact-section {
@@ -191,7 +200,10 @@
         display: flex;
         margin-left: 0;
     }
-    .section-box { margin-bottom: 30px;}
+    .section-box { 
+        margin-bottom: 30px;
+        margin-top: -60px;
+    }
     hr { margin-top: 20px; }
 
 }
