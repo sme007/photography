@@ -122,6 +122,18 @@
         align-items: center;
         flex-direction: column;       
     }
+    .membership {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; 
+        margin-bottom: 20px;        
+    }
+.membership .btn-sign-register {
+    margin-left: 45px;
+    margin-top: -20px;
+}
     .btn-play {
         top: 63%;
     }
