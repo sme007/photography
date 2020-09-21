@@ -161,13 +161,13 @@ main {
     height: 250px;
     width: 45%;
     background-color: #bfbebe;
-    margin-top: -60px;
 }
 .section-box-1 {
     background-image: url('../img/1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin-top: -50px;
 }
 .section-box-2 {
     background-image: url('../img/2.jpg');
