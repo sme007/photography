@@ -161,6 +161,7 @@ main {
     height: 250px;
     width: 45%;
     background-color: #bfbebe;
+    margin-top: -60px;
 }
 .section-box-1 {
     background-image: url('../img/1.jpg');
